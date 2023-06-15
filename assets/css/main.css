@@ -2143,10 +2143,17 @@ ol {
 }
 
 @media (max-width: 767px) {
-  .hero-area .hero-content h5 {
-    font-size: 14px;
-    margin-bottom: 10px;
-  }
+.hero-area .hero-content h2 {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 55px;
+  color: #fff;
+  margin: 0px 0 18px;
+  text-transform: ;
+  overflow: hidden;
+}
+
+
 }
 
 .hero-area .hero-content h5 i {
